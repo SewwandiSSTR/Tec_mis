@@ -10,9 +10,12 @@ Mark
   CA - mid , Assignment , Quiz , Project
   End marks
   Final Marks
+  
   GPA -:
+  
       SGPA - Calcuated with none GPA Courses
       CGPA - Calcuated without none GPA Courses
+      
   Grade ( A , A+ , A- . B+ , B , B- , C+ , C , C- , D , E , NE , WH )
   
 Attendece For all courses ( 8 Courses practical and theory oriented) 
