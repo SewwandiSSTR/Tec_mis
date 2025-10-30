@@ -27,9 +27,9 @@ User - Student , Admin , Lecturer , Technical Officer , Dean
 Medical - end medical , mid medical , Attendence medical 
 
 Method that used :
-  Common Table Expression
-  Views
-  Procedures
+  Common Table Expression , 
+  Views ,
+  Procedures ,
   Tables
   
 
